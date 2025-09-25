@@ -1,7 +1,5 @@
 # Entry Exit Face Identification Door Lock System
 
-## An AI-Powered Smart Security Solution
-
 This project implements an intelligent entry-exit door lock system using face recognition and object detection technologies. The system combines machine learning models to provide secure, contactless access control for buildings and secure areas.
 
 ---
